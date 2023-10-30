@@ -35,7 +35,6 @@ export default function Home() {
           allowFullScreen
           title='video'
           width="100%"
-          height={height}
         />
 
       </div>
