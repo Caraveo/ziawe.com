@@ -33,14 +33,13 @@ export default function Home() {
             target="_self"
             rel="noopener noreferrer"
           >
-        <Image
-          className="relative"
-          src="/iris.png"
-          alt="Next.js Logo"
-          width={2200}
-          height={2200}
-          priority
-        />
+        <iframe 
+    width="100%" 
+    height="80%" 
+    src="https://www.youtube.com/embed/F1EnA1lNh-Y?si=Fv6PnDeXxXb2Fdp8" 
+    frameBorder="0" 
+    allow="autoplay; encrypted-media" 
+    allowFullScreen></iframe>
         </a>
 
       </div>
