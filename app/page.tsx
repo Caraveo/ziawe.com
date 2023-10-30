@@ -32,7 +32,7 @@ export default function Home() {
         <iframe src='https://www.youtube.com/embed/F1EnA1lNh-Y?si=Fv6PnDeXxXb2Fdp8'
           frameBorder='0'
           allow='autoplay; encrypted-media'
-          allowfullscreen
+          allowFullScreen
           title='video'
         />
 
