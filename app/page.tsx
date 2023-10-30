@@ -33,12 +33,12 @@ export default function Home() {
             target="_self"
             rel="noopener noreferrer"
           >
-        <iframe 
-    width="100%" 
-    height="80%" 
+<iframe 
+    width="{80%}" 
+    height="{60%}" 
     src="https://www.youtube.com/embed/F1EnA1lNh-Y?si=Fv6PnDeXxXb2Fdp8" 
     frameBorder="0" 
-    allow="autoplay; encrypted-media" 
+    data-allow="autoplay; encrypted-media" 
     allowFullScreen></iframe>
         </a>
 
