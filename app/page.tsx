@@ -30,11 +30,11 @@ export default function Home() {
 
 
         <iframe src='https://www.youtube.com/embed/F1EnA1lNh-Y?si=Fv6PnDeXxXb2Fdp8'
-frameborder='0'
-allow='autoplay; encrypted-media'
-allowfullscreen
-title='video'
-/>
+          frameBorder='0'
+          allow='autoplay; encrypted-media'
+          allowfullscreen
+          title='video'
+        />
 
       </div>
 
