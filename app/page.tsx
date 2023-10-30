@@ -34,6 +34,8 @@ export default function Home() {
           allow='autoplay; encrypted-media'
           allowFullScreen
           title='video'
+          width="{80%}" 
+          height="{60%}" 
         />
 
       </div>
